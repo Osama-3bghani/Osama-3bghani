@@ -1,6 +1,7 @@
 ## Hi there 👋
+
 # 💫 About Me:<br>
-⚫ I work as a back-end developer<br>📧 How to reach me o.osamaabdelghani@gmail.com
+⚫ I work as a Back-End developer<br>📧 Reach me on o.osamaabdelghani@gmail.com
 
 
 ## 🌐 Socials:
@@ -18,7 +19,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Osama-3bghani&icon=0&color=0)](https://visitcount.itsvg.in)
 <!--
 **Osama-3bghani/Osama-3bghani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
